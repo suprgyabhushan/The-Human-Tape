@@ -30,7 +30,7 @@ The code represent the different stages through which we went during our progres
 ##THE HUMAN TAPE TEAM
 
 1. Suprgya Bhushan (https://github.com/suprgyabhushan)
-2. Smit Patel
+2. Smit Patel (https://github.com/smitpatel1996)
 3. Raghav Bhatnagar (https://github.com/raghavbhatnagar96)
 
 
