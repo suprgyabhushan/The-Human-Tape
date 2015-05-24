@@ -27,6 +27,10 @@ The code represent the different stages through which we went during our progres
 4. Please connect accordingly to the pin numbers we have used as parameters in our functions of LCD and Ultrasonic and Peizoelectric Sensors in the code.
 5. Connect them all onto gloves and your project is ready.
 
+##Video Demonstration
+
+https://www.youtube.com/watch?v=eT_a1r8K238
+
 ##THE HUMAN TAPE TEAM
 
 1. Suprgya Bhushan (https://github.com/suprgyabhushan)
