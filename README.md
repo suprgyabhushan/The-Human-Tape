@@ -37,7 +37,4 @@ https://www.youtube.com/watch?v=eT_a1r8K238
 2. Smit Patel (https://github.com/smitpatel1996)
 3. Raghav Bhatnagar (https://github.com/raghavbhatnagar96)
 
-##Image
-
-![My image](suprgyabhushan.github.com/repository/img/image.jpg)
 
